@@ -12,4 +12,7 @@ A handbook of energy analytics covering lessons and tutorials on applications of
 - [ ] Energy justice
 - [ ] Applications of machine learning
 - [ ] Building decarbonization
+- [ ] Techno-economic analysis of energy technologies
+- [ ] Ratemaking
+- [ ] Energy system performance evaluation
 - [ ] Miscellaneous
