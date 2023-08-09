@@ -8,7 +8,7 @@ A handbook of energy analytics covering lessons and tutorials on applications of
 - [ ] Forecasting and time series analysis
 - [ ] Long-range energy planning and optimization
 - [ ] Energy markets and trading
-  - [ ] Importing energy market dataset using `gridstatus` Python package
+  - [ ] Importing energy market data using `gridstatus` Python package
 - [ ] Spatial analysis
 - [ ] Energy justice
 - [ ] Applications of machine learning
