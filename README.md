@@ -9,7 +9,7 @@ A handbook of energy analytics covering lessons and tutorials on applications of
 - [ ] Long-range energy planning and optimization
 - [ ] Energy markets and trading
   - [ ] Importing energy market data using `gridstatus` Python package
-  - [ ] Modeling profitability from energy price arbitrage from a grid-connected battery[![Open In Colab](https://colab.research.google.com/drive/1eQcjrKt2Bs9y_go6MtiwrFV8V39GGxag?usp=sharing)
+  - [ ] Modeling profitability from energy price arbitrage from a grid-connected battery [![Open In Colab](https://colab.research.google.com/drive/1eQcjrKt2Bs9y_go6MtiwrFV8V39GGxag?usp=sharing)
 - [ ] Spatial analysis
 - [ ] Energy justice
 - [ ] Applications of machine learning
