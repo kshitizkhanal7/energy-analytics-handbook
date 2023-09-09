@@ -22,6 +22,6 @@ A handbook of energy analytics covering lessons and tutorials on applications of
       
   *Featured tutorials are tutorials from external sources that can be very helpful to the audience of this handbook.*
 
-  - [ ] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]({https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT2})
+  - [ ] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
   - [ ] 
       
