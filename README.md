@@ -24,7 +24,7 @@ A handbook of energy analytics covering lessons and tutorials on applications of
 
   - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
   - [X] Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing)
-  - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)  
+  - [X] Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bkOTSrVKMaxsG938R_TFawiOyAvajnSl?usp=sharing)
   - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
   - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
 
