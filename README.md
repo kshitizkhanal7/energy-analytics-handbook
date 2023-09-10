@@ -25,7 +25,7 @@ A handbook of energy analytics covering lessons and tutorials on applications of
   - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
   - [X] Smart Meter Data Analytics: Practical Use-Cases and Best Practices of Machine Learning Applications for Energy Data in the Residential Sector [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing)
   - [X] Estimating Coal Power Plant Operation From Satellite Images with Computer Vision [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bkOTSrVKMaxsG938R_TFawiOyAvajnSl?usp=sharing)
-  - [X] AI for optimal power flow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
+  - [X] AI for optimal power flow [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hr9ON0CIoY18QM1PVP1ePBm1qbyq0ml7?usp=drive_link)
   - [X] Building Load Forecasting with ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZWpJY03xLIsUrlOzgTNHemKyLatMgKrp?usp=sharing#scrollTo=wopp4LoYKsT)
 
 
