@@ -1,5 +1,5 @@
 # Handbook of Energy Analytics
-_Systemic, algorithmic, and data-centric modeling for the energy transition_
+_Techno-economic energy systems modeling and analysis using data-centric and algorithmic approaches_
 
 *Kshitiz Khanal*
 
