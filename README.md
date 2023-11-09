@@ -14,7 +14,7 @@ This handbook covers lessons and tutorials on applications of modeling, optimiza
 - [ ] Forecasting and time series analysis
 - [ ] Long-range energy planning and optimization
 - [ ] Clean energy project finance
-  - [X] Comparing various modes of project financing for commercial solar [![Open in Colba](https://colab.research.google.com/drive/1kcRKvZm_i6wnPi2ccqo7auj8sVBaeV8B?usp=sharing)] 
+  - [X] Comparing various modes of project financing for commercial solar [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kcRKvZm_i6wnPi2ccqo7auj8sVBaeV8B?usp=sharing)
 - [ ] Energy markets and trading
   - [ ] Importing energy market data using `gridstatus` Python package
   - [X] Modeling profitability of electricity price arbitrage from a grid-connected battery [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eQcjrKt2Bs9y_go6MtiwrFV8V39GGxag?usp=sharing)
