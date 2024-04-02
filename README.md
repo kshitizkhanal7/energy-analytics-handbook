@@ -11,6 +11,7 @@ This handbook covers lessons and tutorials on applications of modeling, optimiza
 
 
 - [ ] Intro to Energy Analytics
+- [ ] Object Oriented Programming for Energy Modelers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zLYB5L62FnOm5ogrsWNYj5IeqMy0jYc8?usp=sharing)
 - [ ] Forecasting and time series analysis
 - [ ] Long-range energy planning and optimization
 - [ ] Clean energy project finance
