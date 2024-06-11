@@ -22,6 +22,7 @@ This handbook covers lessons and tutorials on applications of modeling, optimiza
 - [ ] Spatial analysis
 - [ ] Energy justice
 - [ ] Applications of machine learning
+- [ ] Using Structural Causal Models to Estimate Energy Project Investment Cost [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yM8WD2gjb7paX5HpGgpdtI2JkIJQzuGv?usp=sharing)
 - [ ] Building decarbonization
 - [ ] Techno-economic analysis of energy technologies
 - [ ] Ratemaking
